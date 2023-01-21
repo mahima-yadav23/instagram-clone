@@ -1,0 +1,9 @@
+body{
+    background-color: #fafafa
+}
+.statusbar__container{
+    overflow: scroll;
+    justify-content: center;
+}
+
+
